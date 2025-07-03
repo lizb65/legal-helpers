@@ -1,4 +1,8 @@
-
+<header style="background: linear-gradient(to right, #004aad, #003380); color: white; padding: 4rem 1rem; text-align: center;">
+  <h1 style="font-size: 3rem; margin-bottom: 0.5rem; font-weight: bold;">Legal Helpers</h1>
+  <p style="font-size: 1.25rem; max-width: 700px; margin: 0 auto;">Fast, trusted, and free legal support after accidents. We connect you with experienced attorneys nationwide—at no cost to you.</p>
+  <a class="cta-button" href="https://4c29d107.sibforms.com/serve/MUIFAHjaZvlsEpgG2_MYxXJH9AhYwNSPJ4ZsgqgWiyaKSx09CIYPz_bT6TMw83eUN6jnxZwfRcUdn05FQ14eSSkk0FuS8Sys7YnO8KfZG-TLXDZ0Gmsmdh99HVCKmr0yOZWmlXeR2i0kq8i0c6jrbThyIFj_n7XvtpAcH2SdIoGwMpdrME-UtZuiftRfTkXFeybT97vw0mfjQM_t" target="_blank" style="margin-top: 2rem; display: inline-block; background: gold; color: #000; padding: 1rem 2rem; font-size: 1.1rem; font-weight: bold; border-radius: 8px; text-decoration: none;">Get Free Legal Help</a>
+</header>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
